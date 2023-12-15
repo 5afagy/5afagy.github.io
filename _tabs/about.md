@@ -10,5 +10,4 @@ order: 4
 >
 >I also share my experiences and insights on cybersecurity through my blog, where I provide valuable tips and tricks to the community.
 
-
 {: .prompt-tip }
