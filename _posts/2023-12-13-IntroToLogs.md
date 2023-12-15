@@ -1,6 +1,6 @@
 ---
 title: Intro to Logs
-date: 2023-12-12 18:32:00 -0500
+date: 2023-12-12 18:44:00 -0500
 categories: [Write-Ups]
 tags: [Security Analyst]
 
