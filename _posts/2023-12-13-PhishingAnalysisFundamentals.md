@@ -204,7 +204,6 @@ Click `Ctrl + f` to search in body => CLICK
 
 **Q4:**  `hxxp[://]t[.]teckbe[.]com/p/?j3=EOo=wFacEwFHl6EOAyFcoUFVTVEchwFHlUFOo6lVTTDcATE7oUE7AUET==` <br>
 
----
 
 # Tools:
 - [CyberChef](https://gchq.github.io/CyberChef/)
