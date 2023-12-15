@@ -3,9 +3,10 @@ title: Phishing Analysis Fundamentals
 date: 2023-12-12 18:32:00 -0500
 categories: [Write-Ups]
 tags: [Security Analyst]
-
+image:
+  path: https://github.com/5afagy/5afagmy.github.io/assets/115117722/73b1601f-f63a-431f-82e8-70667094b19a
+  
 ---
-![image](https://github.com/5afagy/5afagmy.github.io/assets/115117722/73b1601f-f63a-431f-82e8-70667094b19a)
 
 ## Introduction 
 Explore the fundamentals of phishing analysis in this comprehensive journey, covering the intricacies of email addresses, delivery mechanisms, headers, body content, and various types of phishing attacks.
