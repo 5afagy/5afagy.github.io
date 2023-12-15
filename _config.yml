@@ -16,10 +16,10 @@ timezone:
 
 title: KHAFAGY # the main title
 
-tagline: Security Analyst  # it will display as the sub-title
+tagline: Security Analyst || Bug Hunter # it will display as the sub-title
 
 description: >- # used by seo meta and the atom feed
-  Security Analyst 
+  Security Analyst || Bug Hunter
 
 # Fill in the protocol & hostname for your site.
 # e.g. 'https://username.github.io', note that it does not end with a '/'.
