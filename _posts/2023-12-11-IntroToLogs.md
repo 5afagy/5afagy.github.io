@@ -3,6 +3,8 @@ title: Intro to Logs
 date: 2023-12-11 18:32:00 -0500
 categories: [Write-Ups]
 tags: [Security Analyst]
+image:
+  path: https://github.com/5afagy/5afagy.github.io/assets/115117722/bd6180da-1d04-45a7-8468-264298ce644a
 
 ---
 
