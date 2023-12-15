@@ -1,6 +1,5 @@
 ---
 title: Phishing Analysis Fundamentals
-author: khafagy
 date: 2023-12-12 18:32:00 -0500
 categories: [Write-Ups]
 tags: [Security Analyst]
