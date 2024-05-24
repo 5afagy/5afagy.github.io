@@ -1,6 +1,6 @@
 # WhatATheme
-markdown: kramdown
-
+#markdown: kramdown
+markdown: jekyll-theme-chirpy
 # URL of the Site
 url: ''
 # Base URL of the Site (i.e., Name of the Repository in which the Site is hosted)
