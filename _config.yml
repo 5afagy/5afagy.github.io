@@ -45,40 +45,7 @@ author-name: Khafagy
 # URL for the Image of the Author
 author-image: https://media.licdn.com/dms/image/D4D03AQHc80TJxip6nw/profile-displayphoto-shrink_200_200/0/1716141012594?e=1721865600&v=beta&t=QxacoJNdvAuOZ4XDakDOs7Jrijd3rBjDXlZxTJW-pao
 # 60 Words About the Author
-author-about: " Greetings, I'm Ali Khafagy, a Computer Science graduate with a passion for cybersecurity. My journey has been driven by exploring vulnerabilities across various platforms, igniting my commitment to strengthening digital defenses.
-
-As a cybersecurity professional, I excel in monitoring and analysis, with hands-on experience in penetration testing, identifying, and mitigating vulnerabilities to enhance security postures. I am eager to apply my expertise in real-world scenarios.
-
-### Teaching Assistant at Culture and Science City
-
-- Led engaging lectures, fostering an interactive learning atmosphere.
-- Conducted practical tutorials on IoT, Networking, Databases, and Computer Architecture.
-- Contributed to course development, enhancing the overall curriculum.
-- Provided personalized guidance to students, aiding their understanding of course materials.
-- Collaborated with faculty on projects, promoting teamwork and knowledge sharing.
-
-### Cybersecurity Engineer
-
-Currently, I am a cybersecurity engineer, working in both defensive and offensive roles:
-- **Defensive:** Building security infrastructures and utilizing open-source SIEM for log monitoring, XDR, WAF, IDS, IPS, and firewalls (both open-source and commercial).
-- **Offensive:** Testing software to detect vulnerabilities and providing developers with mitigation strategies.
-
-### Vulnerability Discoveries
-
-I have discovered valid and duplicated vulnerabilities in notable organizations such as:
-- Nokia
-- Coca-Cola
-- IBM
-- LinkedIn
-- Airbnb
-- AT&T
-- Compass
-- Orange
-- Vodafone
-- IKEA
-- And more
-
-Additionally, I share my experiences and insights on cybersecurity through my blog, offering valuable tips and tricks to the community."
+author-about: Greetings, I'm Ali Khafagy, a Computer Science graduate passionate about cybersecurity with hands-on experience in penetration testing and SOC administration. As a cybersecurity engineer, I work in both defensive (building security infrastructures, SIEM, XDR, WAF, IDS/IPS, firewalls) and offensive roles (testing software, mitigating vulnerabilities). I’ve discovered vulnerabilities in companies like Nokia, Coca-Cola, IBM, LinkedIn, Airbnb, AT&T, Compass, Orange, Vodafone, and IKEA. I also share cybersecurity insights through my blog. As a Teaching Assistant at Culture and Science City, I led lectures, tutorials, and course development in IoT, Networking, Databases, and Computer Architecture.
 
 # URL to the Author's Profile (i.e., Github, Twitter, Stackoverflow, etc)
 author-url: https://linkedin.com/in/khafagy
