@@ -4,6 +4,7 @@ author: khafagy
 date: 2023-3-28 19:32:00 -0500
 categories: [Awareness]
 tags: [vulnerability]
+post-image: https://user-images.githubusercontent.com/115117722/228717939-20956b6b-bb53-49bb-9750-25591eb54b75.png
 
 ---
 ![image](https://raw.githubusercontent.com/5afagy/5afagy.github.io/main/assets/image/image29.png)
