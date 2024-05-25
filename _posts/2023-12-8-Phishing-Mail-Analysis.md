@@ -4,7 +4,7 @@ author: khafagy
 date: 2023-12-7 18:32:00 -0500
 categories: [Security Analyst]
 tags: [Phishing]
-post-image: https://github.com/5afagy/5afagy.github.io/assets/115117722/b7bc1be9-6c78-43c2-b387-95e008c1ed92
+post-image: [https://github.com/5afagy/5afagy.github.io/assets/115117722/b7bc1be9-6c78-43c2-b387-95e008c1ed92](https://github-production-user-asset-6210df.s3.amazonaws.com/115117722/333766133-b7bc1be9-6c78-43c2-b387-95e008c1ed92.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20240525%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20240525T023016Z&X-Amz-Expires=300&X-Amz-Signature=08d9137a9b42ebaa1268e98ca2f1a1d0905a282312f35be251c685d423cf6f8f&X-Amz-SignedHeaders=host&actor_id=115117722&key_id=0&repo_id=805505492)
 
 
 ---
