@@ -4,7 +4,7 @@ author: khafagy
 date: 2023-12-7 18:32:00 -0500
 categories: [Security Analyst]
 tags: [Phishing]
-post-image: https://github.com/5afagy/5afagy.github.io/blob/master/assets/image/img33.png
+post-image: https://raw.githubusercontent.com/5afagy/5afagy.github.io/master/assets/image/img33.png
 
 ---
 ![image](https://raw.githubusercontent.com/5afagy/5afagy.github.io/main/assets/image/image29.png)
