@@ -4,6 +4,7 @@ author: khafagy
 date: 2023-3-10 18:32:00 -0500
 categories: [Project]
 tags: [Machine]
+post-image: https://raw.githubusercontent.com/5afagy/5afagy.github.io/master/assets/image/image4444.jpg
 
 ---
 
