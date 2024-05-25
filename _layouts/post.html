@@ -7,41 +7,6 @@ layout: compress
 
 <head>
   {% include head.html %}
-  <style>
-    #post-image {
-      max-width: 100%;
-      height: auto;
-      display: block;
-      margin: 0 auto;
-    }
-    .details-row {
-      text-align: left;
-      padding: 20px;
-    }
-    .details-row a {
-      color: inherit;
-      text-decoration: none;
-    }
-    .details-row .post-title {
-      font-size: 1.5em;
-      margin-bottom: 10px;
-    }
-    .details-row .post-content {
-      color: #555;
-    }
-    .details-row .divider {
-      background-color: #ccc;
-      height: 1px;
-      border: none;
-      margin: 20px 0;
-    }
-    .details-row .publish-info {
-      color: #777;
-    }
-    .details-row .reading-time {
-      font-weight: bold;
-    }
-  </style>
 </head>
 
 <body>
@@ -54,15 +19,13 @@ layout: compress
           <h1 class="title has-text-centered is-2 has-text-weight-semibold ">{{page.title}}</h1>
         </a>
         <hr class="has-background-black">
-        <div class="columns is-centered">
-          <div class="column is-narrow">
-            <figure class="image has-shadow">
-              <img src="{{page.post-image}}" alt="{{page.title}}" id="post-image">
+        <div class="columns is-variable is-5">
+          <div class="column is-6">
+            <figure class="image is-16by9 has-shadow">
+              <img src="{{page.post-image}}" alt="{{post.title}}" id="post-image">
             </figure>
           </div>
-        </div>
-        <div class="columns is-centered">
-          <div class="column is-8 subtitle details-row">
+          <div class="subtitle column is-5 has-text-left-desktop has-text-left-fullhd has-text-left-tablet has-text-center-mobile">
             {% unless page.description.size == 0 %}
             <p id="description" class="content is-small has-text-weight-medium is-uppercase">{{page.description | strip | strip_html | strip_newlines }}</p>
             {% endunless %}
