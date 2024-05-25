@@ -19,13 +19,15 @@ layout: compress
           <h1 class="title has-text-centered is-2 has-text-weight-semibold ">{{page.title}}</h1>
         </a>
         <hr class="has-background-black">
-        <div class="columns is-variable is-5">
-          <div class="column is-6">
+        <div class="columns is-centered">
+          <div class="column is-12">
             <figure class="image is-16by9 has-shadow">
-              <img src="{{page.post-image}}" alt="{{post.title}}" id="post-image">
+              <img src="{{page.post-image}}" alt="{{page.title}}" id="post-image">
             </figure>
           </div>
-          <div class="subtitle column is-5 has-text-left-desktop has-text-left-fullhd has-text-left-tablet has-text-center-mobile">
+        </div>
+        <div class="columns is-centered">
+          <div class="column is-8 subtitle has-text-left-desktop has-text-left-fullhd has-text-left-tablet has-text-centered-mobile">
             {% unless page.description.size == 0 %}
             <p id="description" class="content is-small has-text-weight-medium is-uppercase">{{page.description | strip | strip_html | strip_newlines }}</p>
             {% endunless %}
