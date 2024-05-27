@@ -13,18 +13,18 @@ tags:
 
 ### Table of Contents
 
- [Introduction](#introduction)
- [PDF Structure](#pdf-structure)
- [PDF Injection: Exploiting Popup Windows](#pdf-injection-exploiting-popup-windows)
- [The "alert('Khafagy_Was_Here')" of PDF Injection](#the-alertkhafagy_was_here-of-pdf-injection)
- [Injecting Code into PDFs](#injecting-code-into-pdfs)
- [Example: Creating an Alert Box](#example-creating-an-alert-box)
- [Stealing Credentials via PDF](#stealing-credentials-via-pdf)
- [Scenario: Stealing Bank Account Credentials](#scenario-stealing-bank-account-credentials)
- [Example JavaScript Code](#example-javascript-code)
- [Protecting Against PDF Exploits](#protecting-against-pdf-exploits)
- [Conclusion](#conclusion)
- [References](#references)
+ - [Introduction](#introduction)
+ - [PDF Structure](#pdf-structure)
+ - [PDF Injection: Exploiting Popup Windows](#pdf-injection-exploiting-popup-windows)
+ - [The "alert('Khafagy_Was_Here')" of PDF Injection](#the-alertkhafagy_was_here-of-pdf-injection)
+ - [Injecting Code into PDFs](#injecting-code-into-pdfs)
+ - [Example: Creating an Alert Box](#example-creating-an-alert-box)
+ - [Stealing Credentials via PDF](#stealing-credentials-via-pdf)
+ - [Scenario: Stealing Bank Account Credentials](#scenario-stealing-bank-account-credentials)
+ - [Example JavaScript Code](#example-javascript-code)
+ - [Protecting Against PDF Exploits](#protecting-against-pdf-exploits)
+ - [Conclusion](#conclusion)
+ - [References](#references)
 
 ### Introduction
 
