@@ -13,18 +13,18 @@ tags:
 
 ### Table of Contents
 
-1. [Introduction](#introduction)
-2. [PDF Structure](#pdf-structure)
-3. [PDF Injection: Exploiting Popup Windows](#pdf-injection-exploiting-popup-windows)
-   - [The "alert('Khafagy_Was_Here')" of PDF Injection](#the-alertkhafagy_was_here-of-pdf-injection)
-   - [Injecting Code into PDFs](#injecting-code-into-pdfs)
-   - [Example: Creating an Alert Box](#example-creating-an-alert-box)
-4. [Stealing Credentials via PDF](#stealing-credentials-via-pdf)
-   - [Scenario: Stealing Bank Account Credentials](#scenario-stealing-bank-account-credentials)
-   - [Example JavaScript Code](#example-javascript-code)
-5. [Protecting Against PDF Exploits](#protecting-against-pdf-exploits)
-6. [Conclusion](#conclusion)
-7. [References](#references)
+ [Introduction](#introduction)
+ [PDF Structure](#pdf-structure)
+ [PDF Injection: Exploiting Popup Windows](#pdf-injection-exploiting-popup-windows)
+ [The "alert('Khafagy_Was_Here')" of PDF Injection](#the-alertkhafagy_was_here-of-pdf-injection)
+ [Injecting Code into PDFs](#injecting-code-into-pdfs)
+ [Example: Creating an Alert Box](#example-creating-an-alert-box)
+ [Stealing Credentials via PDF](#stealing-credentials-via-pdf)
+ [Scenario: Stealing Bank Account Credentials](#scenario-stealing-bank-account-credentials)
+ [Example JavaScript Code](#example-javascript-code)
+ [Protecting Against PDF Exploits](#protecting-against-pdf-exploits)
+ [Conclusion](#conclusion)
+ [References](#references)
 
 ### Introduction
 
@@ -169,13 +169,12 @@ To defend against PDF exploits, it is crucial to take the following measures:
 PDF files can indeed serve as a vector for cyber attacks, potentially leading to Remote Code Execution (RCE) if not handled carefully. Understanding how attackers exploit PDF vulnerabilities is essential for maintaining a secure digital environment. By adopting the aforementioned protective measures, you can significantly reduce the risk of falling victim to PDF-based exploits and safeguard your organization's sensitive information.
 
 ### References
-
-[Let’s write a PDF file](https://speakerdeck.com/ange/lets-write-a-pdf-file?slide=1)
-[Portable Data exFiltration: XSS for PDFs](https://speakerdeck.com/ange/lets-write-a-pdf-file?slide=1)
-[Learn and Play with PDF Source Code](https://github.com/angea/PDF101)
-[PDF - Mess With The Web](https://www.youtube.com/watch?v=WQsDpYnJT6A&ab_channel=OWASPFoundation)
-[The PDF invoice that phished you](https://blog.reversinglabs.com/blog/the-pdf-invoice-that-phished-you)
-[Malicious PDFs Revealing the Techniques Behind the Attacks](https://forums.hardwarezone.com.sg/threads/din-know-pdf-so-dangerous-one-can-actually-execute-malicious-code.6587298/)
-[Analyze Malicious PDFs](https://www.youtube.com/watch?v=AzXf7GV0jew&ab_channel=Intezer)
-[PDF_analysis](https://github.com/zbetcheckin/PDF_analysis)
+- [Let’s write a PDF file](https://speakerdeck.com/ange/lets-write-a-pdf-file?slide=1)
+- [Portable Data exFiltration: XSS for PDFs](https://speakerdeck.com/ange/lets-write-a-pdf-file?slide=1)
+- [Learn and Play with PDF Source Code](https://github.com/angea/PDF101)
+- [PDF - Mess With The Web](https://www.youtube.com/watch?v=WQsDpYnJT6A&ab_channel=OWASPFoundation)
+- [The PDF invoice that phished you](https://blog.reversinglabs.com/blog/the-pdf-invoice-that-phished-you)
+- [Malicious PDFs Revealing the Techniques Behind the Attacks](https://forums.hardwarezone.com.sg/threads/din-know-pdf-so-dangerous-one-can-actually-execute-malicious-code.6587298/)
+- [Analyze Malicious PDFs](https://www.youtube.com/watch?v=AzXf7GV0jew&ab_channel=Intezer)
+- [PDF_analysis](https://github.com/zbetcheckin/PDF_analysis)
 
