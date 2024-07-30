@@ -15,10 +15,10 @@ site-image: /WhatATheme/assets/images/meta.jpg
 # Keywords of the Site
 site-keywords: hacking, Template, Theme, cyber, security, cyber security, hacker
 # URL for the Image of custom Favicon
-favicon-url: https://media.licdn.com/dms/image/D4D03AQHc80TJxip6nw/profile-displayphoto-shrink_200_200/0/1716141012594?e=1721865600&v=beta&t=QxacoJNdvAuOZ4XDakDOs7Jrijd3rBjDXlZxTJW-pao
+favicon-url: https://pbs.twimg.com/profile_images/1794143343120662528/oJLjZTE9_400x400.jpg
 
 # URL of the Image of Custom Hero Image (i.e., the image in the background of the very first section of the Homepage)
-heroimage: https://images.pexels.com/photos/220444/pexels-photo-220444.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940
+heroimage: https://pbs.twimg.com/profile_images/1794143343120662528/oJLjZTE9_400x400.jpg
 
 # Social Media and Contact
 # If you don't want to use any icon, you can leave them blank.
@@ -43,7 +43,7 @@ disqus-shortname: Khafagy
 # Name of the Author
 author-name: Khafagy
 # URL for the Image of the Author
-author-image: https://media.licdn.com/dms/image/D4D03AQHc80TJxip6nw/profile-displayphoto-shrink_200_200/0/1716141012594?e=1721865600&v=beta&t=QxacoJNdvAuOZ4XDakDOs7Jrijd3rBjDXlZxTJW-pao
+author-image: https://pbs.twimg.com/profile_images/1794143343120662528/oJLjZTE9_400x400.jpg
 # 60 Words About the Author
 author-about: "Greetings, I'm Ali Khafagy, a Computer Science graduate passionate about cybersecurity with extensive experience in penetration testing and SIEM administration. As a cybersecurity engineer, I specialize in both defensive roles (building security infrastructures, SIEM, XDR, WAF, IDS/IPS, firewalls) and offensive roles (testing software, mitigating vulnerabilities). I have discovered vulnerabilities in major companies like Nokia, Coca-Cola, IBM, LinkedIn, Airbnb, AT&T, Compass, Orange, Vodafone, and IKEA. Through this blog, I share my insights, tips, and experiences to help strengthen the cybersecurity community.  
 
